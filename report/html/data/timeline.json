@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "jinjin-PC",
+    "children" : [ {
+      "name" : "64560-MainThread",
+      "children" : [ {
+        "name" : "Test.test002",
+        "uid" : "8e329d20f7aa2516",
+        "parentUid" : "19cf7699c990a544f0f4e1961ddcf4ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568259483855,
+          "stop" : 1568259483856,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test.test003",
+        "uid" : "f45960453fce1726",
+        "parentUid" : "19cf7699c990a544f0f4e1961ddcf4ac",
+        "status" : "failed",
+        "time" : {
+          "start" : 1568259483858,
+          "stop" : 1568259483941,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test.test001",
+        "uid" : "70f9db82a679b38a",
+        "parentUid" : "19cf7699c990a544f0f4e1961ddcf4ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1568259483764,
+          "stop" : 1568259483853,
+          "duration" : 89
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "19cf7699c990a544f0f4e1961ddcf4ac"
+    } ],
+    "uid" : "55475a32f0ee59b4994bc478dff2a509"
+  } ]
+}
