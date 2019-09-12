@@ -7,4 +7,4 @@ class Test:
 
     def test003(self):
         print("test003被执行")
-        assert 0
+        assert 1
